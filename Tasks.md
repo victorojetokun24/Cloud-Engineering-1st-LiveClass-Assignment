@@ -45,7 +45,7 @@ vagrant@ubuntu-3nity:~$ su Altschool
 Altschool@ubuntu-3nity:~$ pwd
 Altschool@ubuntu-3nity:~$ mkdir code tests personal misc
 ```
-![Altachool-Passwd](./user_passwd.png)
+![Altachool-Passwd](./user_Passwd.png)
 ![Altachool-HomeDir](./Altschool~HomeDir.png)
 ![Altachool-subdir](./subdir.png)
 
